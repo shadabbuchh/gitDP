@@ -1,6 +1,7 @@
 {
   "gitSyncId": "67406b2f01969871a93fb20a_49887a46-2bf7-4e53-97b6-a9da73a0a8b9",
   "unpublishedPage": {
+    "customSlug": "this-is-a-dummy-text-in-URL",
     "layouts": [
       {
         "dsl": {
@@ -25,7 +26,7 @@
         }
       }
     ],
-    "name": "Page3",
-    "slug": "page3"
+    "name": "Third Page",
+    "slug": "third-page"
   }
 }
